@@ -1,4 +1,4 @@
-# 👋 Hey, moi c’est Antoine  
+# 👋 Bonjour, moi c’est Antoine  
 
 💻 **Développeur Web** basé à **Paris XV**  
 ⚡ Passionné par **Prestashop**, **Laravel** et le dev **GTA RP / FiveM**  
