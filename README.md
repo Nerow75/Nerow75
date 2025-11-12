@@ -31,7 +31,7 @@ Actuellement en création de **portfolio professionnel**
 
 ---
 
-## 🌐 Me contacter
+## Me contacter
 - 📸 Instagram : [@antoine.s.75](https://instagram.com/antoine.s.75)  
 - 💬 Discord : `nerow`
 
