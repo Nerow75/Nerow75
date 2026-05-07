@@ -4,6 +4,8 @@
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=57C6F7&center=true&vCenter=true&width=500&lines=Full-Stack+Developer;Web+%26+Mobile+%7C+Paris%2C+France;Laravel+%C2%B7+React+%C2%B7+React+Native)](https://git.io/typing-svg)
 
+[![Portfolio](https://img.shields.io/badge/Portfolio-a--nerow.fr-000000?style=flat-square&logo=vercel&logoColor=white)](https://a-nerow.fr)
+&nbsp;
 [![Email](https://img.shields.io/badge/Email-a.sillard3%40gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:a.sillard3@gmail.com)
 &nbsp;
 ![Discord](https://img.shields.io/badge/Discord-nerow-5865F2?style=flat-square&logo=discord&logoColor=white)
@@ -17,7 +19,7 @@
 Building web apps, mobile apps, and deployable tooling.
 I focus on **clean architecture**, real-time systems, and shipping things that actually work.
 
-Currently building **[Trackr](https://github.com/Nerow75/trackr)** (iOS/Android) and **[DelZone](https://github.com/Nerow75/DelZone)** (multiplayer party games).
+Currently building **[Trackr](https://trackr.ovh)** (iOS/Android) and **[DelZone](https://delzone.fr/dashboard)** (multiplayer party games).
 
 ---
 
@@ -52,9 +54,9 @@ Currently building **[Trackr](https://github.com/Nerow75/trackr)** (iOS/Android)
 
 | Project | Description | Stack |
 |---------|-------------|-------|
-| [**AlterTrack**](https://github.com/Nerow75/AlterTrack) | Job aggregator with AI-powered candidate matching and multi-source scraping | Laravel · Astro · Node.js · Meilisearch |
-| [**DelZone**](https://github.com/Nerow75/DelZone) | Real-time multiplayer party game platform — Pictionary, Blind Test, Bluff and more | Next.js · Socket.io · Supabase · Redis |
-| [**Trackr**](https://github.com/Nerow75/trackr) | Cross-platform anime & manga tracker — offline sync, achievements, in-app purchases | React Native · Expo · Supabase |
+| **AlterTrack** | Job aggregator with AI-powered candidate matching and multi-source scraping | Laravel · Astro · Node.js · Meilisearch |
+| [**DelZone**](https://delzone.fr/dashboard) | Real-time multiplayer party game platform — Pictionary, Blind Test, Bluff and more | Next.js · Socket.io · Supabase · Redis |
+| [**Trackr**](https://trackr.ovh) | Cross-platform anime & manga tracker — offline sync, achievements, in-app purchases | React Native · Expo · Supabase |
 | [**FiveM Panel**](https://github.com/Nerow75/fivem-panel-template) | One-command deployable RP server admin panel — Discord auth, staff tools, whitelisting | Laravel · Inertia · React · Docker |
 | [**PS Billing Email**](https://github.com/Nerow75/PS_Billing_Email) | PrestaShop 8 module — dedicated billing email per configurable order state | PHP · PrestaShop 8 |
 
@@ -63,10 +65,6 @@ Currently building **[Trackr](https://github.com/Nerow75/trackr)** (iOS/Android)
 ## Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Nerow75&show_icons=true&theme=tokyonight&count_private=true&hide_border=true" height="165" />
+  <img src="https://streak-stats.demolab.com?user=Nerow75&theme=tokyonight&hide_border=true" height="165" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nerow75&layout=compact&theme=tokyonight&langs_count=8&hide_border=true" height="165" />
-</p>
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=Nerow75&theme=tokyonight&hide_border=true" />
 </p>
