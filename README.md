@@ -6,7 +6,7 @@
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-a--nerow.fr-000000?style=flat-square&logo=vercel&logoColor=white)](https://a-nerow.fr)
 &nbsp;
-[![Email](https://img.shields.io/badge/Email-a.sillard3%40gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:a.sillard3@gmail.com)
+[![Email](https://img.shields.io/badge/Email-contact%40a--nerow.fr-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:contact@a-nerow.fr)
 &nbsp;
 ![Discord](https://img.shields.io/badge/Discord-nerow-5865F2?style=flat-square&logo=discord&logoColor=white)
 &nbsp;
@@ -65,6 +65,9 @@ Currently building **[Trackr](https://trackr.ovh)** (iOS/Android) and **[DelZone
 ## Stats
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=Nerow75&theme=tokyonight&hide_border=true" height="165" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nerow75&layout=compact&theme=tokyonight&langs_count=8&hide_border=true" height="165" />
+  <img src="https://streak-stats.demolab.com?user=Nerow75&theme=tokyonight&hide_border=true" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Nerow75&theme=tokyo-night&hide_border=true&area=true" width="100%" />
 </p>
