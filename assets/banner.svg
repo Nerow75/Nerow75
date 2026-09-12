@@ -1,0 +1,65 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="340" viewBox="0 0 1200 340" fill="none" role="img" aria-label="Antoine Sillard, Full-Stack Developer, available for apprenticeship October 2026">
+<title>Antoine Sillard · Full-Stack Developer</title>
+<defs>
+<radialGradient id="halo" cx="8%" cy="0%" r="72%">
+<stop offset="0%" stop-color="#FFD60A" stop-opacity="0.13"/>
+<stop offset="100%" stop-color="#FFD60A" stop-opacity="0"/>
+</radialGradient>
+<linearGradient id="fade" x1="0" y1="0" x2="1" y2="0">
+<stop offset="0%" stop-color="#000000"/>
+<stop offset="46%" stop-color="#3a3a3a"/>
+<stop offset="100%" stop-color="#ffffff"/>
+</linearGradient>
+<mask id="fademask"><rect width="1200" height="340" fill="url(#fade)"/></mask>
+<pattern id="dots" width="24" height="24" patternUnits="userSpaceOnUse">
+<circle cx="1.6" cy="1.6" r="1.6" fill="#26262C"/>
+</pattern>
+<clipPath id="round"><rect width="1200" height="340" rx="20"/></clipPath>
+</defs>
+<style>
+.s{font-family:-apple-system,BlinkMacSystemFont,Segoe UI,Inter,Roboto,Helvetica,Arial,sans-serif}
+.m{font-family:ui-monospace,SFMono-Regular,JetBrains Mono,Menlo,Consolas,Liberation Mono,monospace}
+.name{font-size:64px;font-weight:700;letter-spacing:-1.6px;fill:#EDEDF0}
+.role{font-size:22px;font-weight:500;fill:#A1A1AA}
+.eyebrow{font-size:12.5px;font-weight:500;letter-spacing:1.1px;fill:#A1A1AA}
+.stack{font-size:13.5px;fill:#71717A;letter-spacing:0.2px}
+.code{font-size:14px;fill:#A1A1AA}
+.tag{font-size:11.5px;letter-spacing:1px;fill:#71717A}
+.a{fill:#FFD60A}
+.t{fill:#EDEDF0}
+@keyframes ping{0%{r:4;opacity:.55}70%{r:11;opacity:0}100%{r:11;opacity:0}}
+@keyframes blink{0%,49%{opacity:1}50%,100%{opacity:0}}
+.ping{animation:ping 2.4s cubic-bezier(0,0,.2,1) infinite}
+.cursor{animation:blink 1.1s steps(1) infinite}
+</style>
+<g clip-path="url(#round)">
+<rect width="1200" height="340" fill="#0B0B0D"/>
+<rect width="1200" height="340" fill="url(#dots)" opacity="0.5" mask="url(#fademask)"/>
+<rect width="1200" height="340" fill="url(#halo)"/>
+<rect x="0" y="0" width="4" height="340" fill="#FFD60A"/>
+</g>
+<rect x="0.5" y="0.5" width="1199" height="339" rx="20" stroke="#26262C" fill="none"/>
+
+<rect x="64" y="74" width="378" height="32" rx="16" fill="#141417" stroke="#26262C"/>
+<circle class="ping" cx="86" cy="90" r="4" fill="#34D399"/>
+<circle cx="86" cy="90" r="4" fill="#34D399"/>
+<text class="m eyebrow" x="102" y="95">AVAILABLE FOR APPRENTICESHIP · OCT 2026</text>
+
+<text class="s name" x="63" y="180">Antoine Sillard<tspan class="a">.</tspan></text>
+<text class="s role" x="66" y="216">Full-Stack Developer <tspan class="a">·</tspan> Web &amp; Mobile</text>
+<rect x="66" y="240" width="44" height="3" rx="1.5" fill="#FFD60A"/>
+<text class="m stack" x="66" y="284">TypeScript · React · Next.js · React Native · Node.js · Go</text>
+
+<rect x="760" y="62" width="380" height="236" rx="14" fill="#141417" stroke="#26262C"/>
+<circle cx="786" cy="88" r="4.5" fill="#3F3F46"/>
+<circle cx="803" cy="88" r="4.5" fill="#3F3F46"/>
+<circle cx="820" cy="88" r="4.5" fill="#FFD60A" opacity="0.75"/>
+<text class="m tag" x="1120" y="92" text-anchor="end">a-nerow.fr</text>
+<line x1="760" y1="110" x2="1140" y2="110" stroke="#26262C"/>
+<text class="m code" x="786" y="146"><tspan class="a">$</tspan> <tspan class="t">nerow --status</tspan></text>
+<text class="m code" xml:space="preserve" x="786" y="176"><tspan class="a">›</tspan> available   oct 2026</text>
+<text class="m code" xml:space="preserve" x="786" y="206"><tspan class="a">›</tspan> shipping    trackr · delzone</text>
+<text class="m code" xml:space="preserve" x="786" y="236"><tspan class="a">›</tspan> infra       docker · traefik · nas</text>
+<text class="m code" x="786" y="266"><tspan class="a">$</tspan></text>
+<rect class="cursor" x="800" y="255" width="8" height="15" fill="#FFD60A"/>
+</svg>
