@@ -10,6 +10,7 @@
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-a--nerow.fr-FFD60A?style=flat-square&labelColor=0B0B0D)](https://a-nerow.fr)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-antoine--sillard-0B0B0D?style=flat-square&labelColor=0B0B0D)](https://www.linkedin.com/in/antoine-sillard/)
+[![X](https://img.shields.io/badge/X-nerowdev-0B0B0D?style=flat-square&labelColor=0B0B0D&logo=x&logoColor=EDEDF0)](https://x.com/nerowdev)
 [![Instagram](https://img.shields.io/badge/Instagram-nerow.dev-0B0B0D?style=flat-square&labelColor=0B0B0D&logo=instagram&logoColor=EDEDF0)](https://www.instagram.com/nerow.dev/)
 [![Email](https://img.shields.io/badge/Email-contact%40a--nerow.fr-0B0B0D?style=flat-square&labelColor=0B0B0D&logo=maildotru&logoColor=EDEDF0)](mailto:contact@a-nerow.fr)
 ![Discord](https://img.shields.io/badge/Discord-nerow-0B0B0D?style=flat-square&labelColor=0B0B0D&logo=discord&logoColor=EDEDF0)
