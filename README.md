@@ -3,17 +3,16 @@
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Nerow75/Nerow75/main/assets/banner.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Nerow75/Nerow75/main/assets/banner-light.svg">
-  <img alt="Antoine Sillard, Full-Stack Developer, available for an apprenticeship in October 2026" src="https://raw.githubusercontent.com/Nerow75/Nerow75/main/assets/banner.svg" width="100%">
+  <img alt="NRW, Full-Stack Developer, available for an apprenticeship in October 2026" src="https://raw.githubusercontent.com/Nerow75/Nerow75/main/assets/banner.svg" width="100%">
 </picture>
 
 <br><br>
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-a--nerow.fr-FFD60A?style=flat-square&labelColor=0B0B0D)](https://a-nerow.fr)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-antoine--sillard-0B0B0D?style=flat-square&labelColor=0B0B0D)](https://www.linkedin.com/in/antoine-sillard/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0B0B0D?style=flat-square&labelColor=0B0B0D)](https://www.linkedin.com/in/antoine-sillard/)
 [![X](https://img.shields.io/badge/X-nerowdev-0B0B0D?style=flat-square&labelColor=0B0B0D&logo=x&logoColor=EDEDF0)](https://x.com/nerowdev)
 [![Instagram](https://img.shields.io/badge/Instagram-nerow.dev-0B0B0D?style=flat-square&labelColor=0B0B0D&logo=instagram&logoColor=EDEDF0)](https://www.instagram.com/nerow.dev/)
 [![Email](https://img.shields.io/badge/Email-contact%40a--nerow.fr-0B0B0D?style=flat-square&labelColor=0B0B0D&logo=maildotru&logoColor=EDEDF0)](mailto:contact@a-nerow.fr)
-![Discord](https://img.shields.io/badge/Discord-nerow-0B0B0D?style=flat-square&labelColor=0B0B0D&logo=discord&logoColor=EDEDF0)
 
 </div>
 
